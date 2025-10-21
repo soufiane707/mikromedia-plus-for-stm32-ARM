@@ -1,0 +1,12 @@
+../Core/Src/VS1053.c:10:6:Init_MP3_GPIO	40	static
+../Core/Src/VS1053.c:37:6:SPI_Write	24	static
+../Core/Src/VS1053.c:44:9:SPI_Read	16	static
+../Core/Src/VS1053.c:53:6:VS1053_SCI_Write	16	static
+../Core/Src/VS1053.c:66:6:VS1053_SCI_Read	24	static
+../Core/Src/VS1053.c:84:6:VS1053_SDI_Write	16	static
+../Core/Src/VS1053.c:96:6:VS1053_SDI_Write_32	24	static
+../Core/Src/VS1053.c:110:6:VS1053_ResetTime	8	static
+../Core/Src/VS1053.c:115:6:VS1053_GetDecodeTime	16	static
+../Core/Src/VS1053.c:121:6:VS1053_SetVolume	24	static
+../Core/Src/VS1053.c:129:6:VS1053_SetDefaultMode	8	static
+../Core/Src/VS1053.c:148:6:VS1053_Init	8	static
